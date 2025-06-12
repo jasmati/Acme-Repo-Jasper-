@@ -1,3 +1,5 @@
+#adding lines of code 
+
 #!/bin/bash
 timestamp=$(date +"%Y%m%d_%H%M%S")
 cp -r ./project ./backup/project_$timestamp
